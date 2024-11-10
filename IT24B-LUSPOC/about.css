@@ -1,24 +1,32 @@
 body{
-    background-image: url("https://i.pinimg.com/originals/5c/7e/ef/5c7eef5b5c89ab6653caeeb2e603ca1b.jpg");
+    background-image: url("https://www.solidbackgrounds.com/images/2560x1600/2560x1600-white-solid-color-background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+
 }
-h4{background-image: url("https://th.bing.com/th/id/OIP.X4kYVKu_yIdqOqO2yx5jygHaE8?w=626&h=418&rs=1&pid=ImgDetMain");
-  background-repeat: no-repeat;
-  background-size: cover;}
-h1{
-    color: rgb(9, 77, 40), blue;
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 100px;
-}h2{
+h1{text-align: center left;
+  font-family:rgb(66, 63, 63);
+  font-size: 20px;}
+}
+h4{ text-align: center left;
+  font-family:rgb(66, 63, 63);
+  font-size: 20px;
+
+  
+}
+       
+            
+
+h2{
       color: rgb(9, 77, 40), blue;
-      text-align: center;
-      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-      font-size: 30px;
+      text-align: center left;
+      font-family:rgb(66, 63, 63);
+      font-size: 50px;
+      text-decoration-color:aqua;
+      
 }
 h3{color: rgb(9, 77, 40), rgb(36, 36, 125);
-  text-align: top;
+  text-align: center;
   font-family: Cambria, Cochin, Georgia,;
   font-size: 50px;}
 .header {
