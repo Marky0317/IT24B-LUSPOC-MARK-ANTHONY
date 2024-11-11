@@ -8,7 +8,7 @@ h1{
     color: rgb(9, 77, 40), blue;
     text-align: center left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
+    font-size: 30px;
     color: #cdeae9    
 }
 h2{ color: rgb(9, 77, 40), blue;
@@ -39,7 +39,12 @@ h3{color: rgb(9, 77, 40), blue;
                 text-align: top right;
                 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
                 font-size: 40px;
-                color: #cdeae9}
+                color:#f0fb53 }
+                p{color: rgb(9, 77, 40), blue;
+                  text-align: center left;
+                  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                  font-size: 20px;
+                  color: #cdeae9 }
 .header {
     overflow: hidden;
     background-color: rgb(78, 22, 131);

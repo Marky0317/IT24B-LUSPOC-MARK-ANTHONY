@@ -6,14 +6,17 @@ body{
 }
 h1{text-align: center left;
   font-family:rgb(66, 63, 63);
-  font-size: 20px;
-  color: #c2d421}
+  font-size: 35px;
+  color: #fafaf6}
 h4{  font-size: 30px;
   color: #08202a;
   font-style: arial;
   color: #d0fcfa}
 
-  h5{image-resolution: ;}
+ p{font-size: 20px;
+  color: #08202a;
+  font-style: arial;
+  color: #d0fcfa}
        
             
 
