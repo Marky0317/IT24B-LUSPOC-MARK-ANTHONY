@@ -1,19 +1,19 @@
 body{
-    background-image: url("https://www.solidbackgrounds.com/images/2560x1600/2560x1600-white-solid-color-background.jpg");
+    background-image: url("https://wallpapercave.com/wp/wp5187908.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 h1{text-align: center left;
   font-family:rgb(66, 63, 63);
-  font-size: 20px;}
-}
-h4{ text-align: center left;
-  font-family:rgb(66, 63, 63);
   font-size: 20px;
+  color: #c2d421}
+h4{  font-size: 30px;
+  color: #08202a;
+  font-style: arial;
+  color: #d0fcfa}
 
-  
-}
+  h5{image-resolution: ;}
        
             
 
@@ -23,12 +23,16 @@ h2{
       font-family:rgb(66, 63, 63);
       font-size: 50px;
       text-decoration-color:aqua;
+      color: #eaf0f0
+
       
 }
 h3{color: rgb(9, 77, 40), rgb(36, 36, 125);
   text-align: center;
   font-family: Cambria, Cochin, Georgia,;
-  font-size: 50px;}
+  font-size: 50px;
+  color: #7ec1ce;}
+ 
 .header {
     overflow: hidden;
     background-color: rgb(78, 22, 131);
